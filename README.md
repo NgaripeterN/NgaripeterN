@@ -45,8 +45,7 @@ I'm a passionate full-stack developer transitioning into the world of Web3. I lo
 
 ### 📊 GitHub Stats
 
-[![NgaripeterN's GitHub stats](https://github-readme-stats.vercel.app/api?username=NgaripeterN&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgaripeterN&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](metrics.svg)
 
 ---
 
