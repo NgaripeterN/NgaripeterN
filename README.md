@@ -50,7 +50,7 @@ I'm a passionate full-stack developer transitioning into the world of Web3. I lo
 
 ---
 
-### 🐍 My Contribution Snake
+### My Contributions
 
 ![Snake animation](https://github.com/NgaripeterN/NgaripeterN/blob/output/github-contribution-grid-snake.svg)
 
