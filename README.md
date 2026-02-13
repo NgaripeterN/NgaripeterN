@@ -23,7 +23,7 @@ I'm a passionate full-stack developer transitioning into the world of Web3. I lo
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vyper](https://img.shields.io/badge/Vyper-3B72A8?style=for-the-badge)
 
-*You can find more icons at [Simple Icons](https://simpleicons.org/) and create your own shields at [shields.io](https://shields.io/).*
+
 
 ---
 
