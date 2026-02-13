@@ -17,6 +17,7 @@ jobs:
           user: ${{ github.repository_owner }}
           filename: metrics.svg
           base: ""
+          base_indepth: yes
 
           # Languages
           plugin_languages: yes
@@ -28,8 +29,8 @@ jobs:
 
           # Habits
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
+          plugin_habits_from: 100
+          plugin_habits_days: 14
           plugin_habits_charts: yes
           plugin_habits_trim: yes
 
