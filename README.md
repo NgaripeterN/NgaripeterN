@@ -38,8 +38,8 @@ I'm a passionate full-stack developer transitioning into the world of Web3. I lo
 
 ### 📫 How to Reach Me
 
-*   **LinkedIn:** https://www.linkedin.com/in/peter-ngari-416166291/
-*   **Email:** ngari.peter024@gmail.com
+<a href="https://www.linkedin.com/in/peter-ngari-416166291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ngari.peter024@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ---
 
